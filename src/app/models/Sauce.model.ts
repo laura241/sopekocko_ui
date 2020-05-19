@@ -8,7 +8,7 @@ export class Sauce {
   dislikes: number;
   imageUrl: string;
   mainPepper: string;
-  usersLiked: string[];
-  usersDisliked: string[];
+  usersliked: string[];
+  usersdisliked: string[];
   userId: string;
 }
